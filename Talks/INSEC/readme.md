@@ -4,7 +4,6 @@
 
 * SANS roadmap: www.sans.org/cyber-security-skills-roadmap/
 * Incident response and digital forensics book
-* Applied incident response book
 * Introductory computer forensics: a hands on practical approach book
 
 # Experts to follow
