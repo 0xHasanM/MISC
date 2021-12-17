@@ -11,6 +11,7 @@
 # Skills
 
 * [The Analyst Mindset - A Cognitive Skills Assessment of Digital Forensic Analysts](https://chrissanders.org/dissertation/Sanders,%20Chris%20-%20The%20Analyst%20Mindset%20-%20A%20Cognitive%20Skills%20Assessment%20of%20Digital%20Forensic%20Analysts.pdf)
+* [What are Cognitive Skills?](https://www.mindmattersjo.com/what-are-cognitive-skills.html)
 
 # Experts to follow
 * https://twitter.com/champdfa
