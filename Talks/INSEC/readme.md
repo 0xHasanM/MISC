@@ -8,6 +8,10 @@
 * [Art of memory forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098)
 * [Windows Internals part 1,2](https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189)
 
+# Skills
+
+* [The Analyst Mindset - A Cognitive Skills Assessment of Digital Forensic Analysts](https://chrissanders.org/dissertation/Sanders,%20Chris%20-%20The%20Analyst%20Mindset%20-%20A%20Cognitive%20Skills%20Assessment%20of%20Digital%20Forensic%20Analysts.pdf)
+
 # Experts to follow
 * https://twitter.com/champdfa
 * https://twitter.com/ali_alwashali
