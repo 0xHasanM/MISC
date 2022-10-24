@@ -1,0 +1,113 @@
+name,type,category,filename,hashalgorithm,sha256,md5,sha1,reliability,malwarename,threatactorname,threatsource,microsoftatpglobalprevalence,microsoftatporgprevalence,rsacountbymeta
+143.198.224.103,IP,malware,None,None,None,None,None,Medium,cobaltstrike,None,ISP Threat Intelligence,-1,0,None
+217.70.184.50,IP,Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+172.67.213.149,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,-1,1,None
+50.28.40.153,IP,attacks/phishing | Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+188.114.97.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.9,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,None,None,None
+05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,File,malware,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159.zip,sha256,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,749e28cb9f23abd7e165dd6cac62ed0f,3abaf6b18f2a7694bd9007d0b83a13c8fa116c33,High,metasploit,None,ISP Threat Intelligence,n/a,n/a,None
+143.198.224.103,IP,malware,None,None,None,None,None,Medium,cobaltstrike,None,ISP Threat Intelligence,-1,0,None
+217.70.184.50,IP,Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+172.67.213.149,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,-1,1,None
+50.28.40.153,IP,attacks/phishing | Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+188.114.97.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.9,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,None,None,None
+05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,File,malware,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159.zip,sha256,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,749e28cb9f23abd7e165dd6cac62ed0f,3abaf6b18f2a7694bd9007d0b83a13c8fa116c33,High,metasploit,None,ISP Threat Intelligence,n/a,n/a,None
+143.198.224.103,IP,malware,None,None,None,None,None,Medium,cobaltstrike,None,ISP Threat Intelligence,-1,0,None
+217.70.184.50,IP,Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+172.67.213.149,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,-1,1,None
+50.28.40.153,IP,attacks/phishing | Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+188.114.97.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.9,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,None,None,None
+05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,File,malware,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159.zip,sha256,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,749e28cb9f23abd7e165dd6cac62ed0f,3abaf6b18f2a7694bd9007d0b83a13c8fa116c33,High,metasploit,None,ISP Threat Intelligence,n/a,n/a,None
+143.198.224.103,IP,malware,None,None,None,None,None,Medium,cobaltstrike,None,ISP Threat Intelligence,-1,0,None
+217.70.184.50,IP,Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+172.67.213.149,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,-1,1,None
+50.28.40.153,IP,attacks/phishing | Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+188.114.97.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.9,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,None,None,None
+05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,File,malware,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159.zip,sha256,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,749e28cb9f23abd7e165dd6cac62ed0f,3abaf6b18f2a7694bd9007d0b83a13c8fa116c33,High,metasploit,None,ISP Threat Intelligence,n/a,n/a,None
+143.198.224.103,IP,malware,None,None,None,None,None,Medium,cobaltstrike,None,ISP Threat Intelligence,-1,0,None
+217.70.184.50,IP,Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+172.67.213.149,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,-1,1,None
+50.28.40.153,IP,attacks/phishing | Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+188.114.97.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.9,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,None,None,None
+05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,File,malware,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159.zip,sha256,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,749e28cb9f23abd7e165dd6cac62ed0f,3abaf6b18f2a7694bd9007d0b83a13c8fa116c33,High,metasploit,None,ISP Threat Intelligence,n/a,n/a,None
+143.198.224.103,IP,malware,None,None,None,None,None,Medium,cobaltstrike,None,ISP Threat Intelligence,-1,0,None
+217.70.184.50,IP,Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+172.67.213.149,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,-1,1,None
+50.28.40.153,IP,attacks/phishing | Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+188.114.97.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.9,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,None,None,None
+05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,File,malware,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159.zip,sha256,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,749e28cb9f23abd7e165dd6cac62ed0f,3abaf6b18f2a7694bd9007d0b83a13c8fa116c33,High,metasploit,None,ISP Threat Intelligence,n/a,n/a,None
+143.198.224.103,IP,malware,None,None,None,None,None,Medium,cobaltstrike,None,ISP Threat Intelligence,-1,0,None
+217.70.184.50,IP,Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+172.67.213.149,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,-1,1,None
+50.28.40.153,IP,attacks/phishing | Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+188.114.97.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.9,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,None,None,None
+05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,File,malware,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159.zip,sha256,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,749e28cb9f23abd7e165dd6cac62ed0f,3abaf6b18f2a7694bd9007d0b83a13c8fa116c33,High,metasploit,None,ISP Threat Intelligence,n/a,n/a,None
+143.198.224.103,IP,malware,None,None,None,None,None,Medium,cobaltstrike,None,ISP Threat Intelligence,-1,0,None
+217.70.184.50,IP,Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+172.67.213.149,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,-1,1,None
+50.28.40.153,IP,attacks/phishing | Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+188.114.97.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.9,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,None,None,None
+05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,File,malware,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159.zip,sha256,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,749e28cb9f23abd7e165dd6cac62ed0f,3abaf6b18f2a7694bd9007d0b83a13c8fa116c33,High,metasploit,None,ISP Threat Intelligence,n/a,n/a,None
+143.198.224.103,IP,malware,None,None,None,None,None,Medium,cobaltstrike,None,ISP Threat Intelligence,-1,0,None
+217.70.184.50,IP,Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+172.67.213.149,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,-1,1,None
+50.28.40.153,IP,attacks/phishing | Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+188.114.97.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.9,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,None,None,None
+05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,File,malware,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159.zip,sha256,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,749e28cb9f23abd7e165dd6cac62ed0f,3abaf6b18f2a7694bd9007d0b83a13c8fa116c33,High,metasploit,None,ISP Threat Intelligence,n/a,n/a,None
+143.198.224.103,IP,malware,None,None,None,None,None,Medium,cobaltstrike,None,ISP Threat Intelligence,-1,0,None
+217.70.184.50,IP,Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+172.67.213.149,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,-1,1,None
+50.28.40.153,IP,attacks/phishing | Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+188.114.97.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.9,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,None,None,None
+05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,File,malware,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159.zip,sha256,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,749e28cb9f23abd7e165dd6cac62ed0f,3abaf6b18f2a7694bd9007d0b83a13c8fa116c33,High,metasploit,None,ISP Threat Intelligence,n/a,n/a,None
+143.198.224.103,IP,malware,None,None,None,None,None,Medium,cobaltstrike,None,ISP Threat Intelligence,-1,0,None
+217.70.184.50,IP,Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+172.67.213.149,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,-1,1,None
+50.28.40.153,IP,attacks/phishing | Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+188.114.97.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.9,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,None,None,None
+05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,File,malware,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159.zip,sha256,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,749e28cb9f23abd7e165dd6cac62ed0f,3abaf6b18f2a7694bd9007d0b83a13c8fa116c33,High,metasploit,None,ISP Threat Intelligence,n/a,n/a,None
+143.198.224.103,IP,malware,None,None,None,None,None,Medium,cobaltstrike,None,ISP Threat Intelligence,-1,0,None
+217.70.184.50,IP,Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+172.67.213.149,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,-1,1,None
+50.28.40.153,IP,attacks/phishing | Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+188.114.97.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.9,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,None,None,None
+05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,File,malware,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159.zip,sha256,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,749e28cb9f23abd7e165dd6cac62ed0f,3abaf6b18f2a7694bd9007d0b83a13c8fa116c33,High,metasploit,None,ISP Threat Intelligence,n/a,n/a,None
+143.198.224.103,IP,malware,None,None,None,None,None,Medium,cobaltstrike,None,ISP Threat Intelligence,-1,0,None
+217.70.184.50,IP,Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+172.67.213.149,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,-1,1,None
+50.28.40.153,IP,attacks/phishing | Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+188.114.97.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.9,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,None,None,None
+05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,File,malware,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159.zip,sha256,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,749e28cb9f23abd7e165dd6cac62ed0f,3abaf6b18f2a7694bd9007d0b83a13c8fa116c33,High,metasploit,None,ISP Threat Intelligence,n/a,n/a,None
+143.198.224.103,IP,malware,None,None,None,None,None,Medium,cobaltstrike,None,ISP Threat Intelligence,-1,0,None
+217.70.184.50,IP,Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+172.67.213.149,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,-1,1,None
+50.28.40.153,IP,attacks/phishing | Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
+188.114.97.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+188.114.96.9,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,None,None,None
+05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,File,malware,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159.zip,sha256,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,749e28cb9f23abd7e165dd6cac62ed0f,3abaf6b18f2a7694bd9007d0b83a13c8fa116c33,High,metasploit,None,ISP Threat Intelligence,n/a,n/a,None
