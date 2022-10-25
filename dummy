@@ -1,11 +1,13 @@
-name,type,category,filename,hashalgorithm,sha256,md5,sha1,reliability,malwarename,threatactorname,threatsource,microsoftatpglobalprevalence,microsoftatporgprevalence,rsacountbymeta
-143.198.224.103,IP,malware,None,None,None,None,None,Medium,cobaltstrike,None,ISP Threat Intelligence,-1,0,None
-217.70.184.50,IP,Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
-172.67.213.149,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,-1,1,None
-50.28.40.153,IP,attacks/phishing | Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,None
-188.114.97.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
-188.114.96.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
-188.114.96.9,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,None,None,None
-05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,File,malware,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159.zip,sha256,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,749e28cb9f23abd7e165dd6cac62ed0f,3abaf6b18f2a7694bd9007d0b83a13c8fa116c33,High,metasploit,None,ISP Threat Intelligence,n/a,n/a,None
-111.111.111.111,IP,malware/cnc,None,None,None,None,None,None,U-Admin,None,ISP Threat Intelligence,None,None,None
-0543245b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,File,malware,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159.zip,sha256,05eb625b33231932be5830fe11702dfe79f3df47708744f7a7b22a4ac48c9159,749e28cb9f23abd7e165dd6cac62ed0f,3abaf6b18f2a7694bd9007d0b83a13c8fa116c33,High,metasploit,None,ISP Threat Intelligence,n/a,n/a,None
+name,name,type,category,filename,hashalgorithm,sha256,md5,sha1,reliability,malwarename,threatactorname,threatsource,microsoftatpglobalprevalence,microsoftatporgprevalence,rsacountbymeta
+52.128.23.153,52.128.23.153,IP,malware/cnc,,,None,None,None,,KPOT Stealer, Redline Stealer, RedLine Stealer,,ISP Threat Intelligence,None,None,None
+update.cdn-windows.com/activity,update.cdn-windows.com/activity,URL,malware,None,sha256,None,None,None,Medium,cobaltstrike,,ISP Threat Intelligence,None,None,None
+101.32.204.81/visit.js,101.32.204.81/visit.js,URL,malware,None,sha256,None,None,None,Medium,cobaltstrike,,ISP Threat Intelligence,None,None,None
+172.78.33.243,172.78.33.243,URL,malware,None,None,None,None,None,Medium,qbot,None,ISP Threat Intelligence,None,None,None
+2y9ea4pnl01jyr7.xyz,2y9ea4pnl01jyr7.xyz,URL,malware,None,None,None,None,None,Medium,remcos,None,ISP Threat Intelligence,None,None,None
+83.110.109.155,83.110.109.155,URL,malware,None,None,None,None,None,Medium,qbot,None,ISP Threat Intelligence,None,None,None
+188.26.180.140,188.26.180.140,URL,malware,None,None,None,None,None,Medium,qbot,None,ISP Threat Intelligence,None,None,None
+222.153.122.173,222.153.122.173,URL,malware,None,None,None,None,None,Medium,qbot,None,ISP Threat Intelligence,None,None,None
+188.114.96.3,188.114.96.3,IP,malware,None,sha256,None,None,None,Medium,lokibot,,ISP Threat Intelligence,None,None,None
+128.199.23.194,128.199.23.194,IP,malware,None,None,None,None,None,Medium,bokbot_v3,None,ISP Threat Intelligence,-1,0,None
+sytes.net,sytes.net,Domain,Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,1,1310
+myvnc.com,myvnc.com,Domain,Network activity,None,None,None,None,None,Medium,None,None,ISP Threat Intelligence,-1,0,0
